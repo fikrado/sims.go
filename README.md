@@ -3,7 +3,8 @@
 [![Instagram](https://img.shields.io/badge/IG-%40mr__yahye-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/mr__yahe)
 [![Messenger](https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/fikrado_hacker)
 [![Facebook](https://img.shields.io/badge/facebook-black?style=for-the-badge&logo=Facebook)](https://facebook.com/fikrado4048063)
-[![Facebook](https://img.shields.io/badge/Go-black?style=for-the-badge&logo=python)](https://facebook.com/fikrado4048063)
+[![Facebook](https://img.shields.io/badge/Go-white?style=for-the-badge&logo=Go
+)](https://facebook.com/fikrado4048063)
 
 
 
